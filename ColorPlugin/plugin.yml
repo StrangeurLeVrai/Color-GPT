@@ -1,0 +1,7 @@
+name: ColorGUI
+main: com.monsite.mycolorplugin.Main
+version: 1.0
+commands:
+  color:
+    description: Choisir une couleur pour voir les pseudos des joueurs colorés.
+    usage: /color [pseudo...]
